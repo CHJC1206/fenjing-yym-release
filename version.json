@@ -1,12 +1,12 @@
 {
-  "skill_version": "2026.11.18.7",
+  "skill_version": "2026.11.18.8",
   "tables_version": "2026.11.18.1",
   "package": "fenjing-yym.zip",
-  "sha256": "07c1fbd5f37bc6135812de39ca4a20ce17160e1428a9526d0d595469fa26e3b7",
-  "size": 100247,
+  "sha256": "f48c6971b513b0bc51f084f89ed9fc32dfae4866f9ba7ed903ea333cac1cca2c",
+  "size": 100716,
   "files": 21,
-  "published_at": "2026-11-18T21:21:21+08:00",
-  "notes": "doctor 增加更新源格式校验；更新后提示备份份数并支持 --prune-backups 清理",
+  "published_at": "2026-11-18T21:28:49+08:00",
+  "notes": "update_check 增加安装包可达性探测：清单在但 zip 缺失时提前提示",
   "package_url": "",
   "source": "publish_release.py"
 }
