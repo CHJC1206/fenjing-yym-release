@@ -1,12 +1,12 @@
 {
-  "skill_version": "2026.11.18.8",
+  "skill_version": "2026.11.18.9",
   "tables_version": "2026.11.18.1",
   "package": "fenjing-yym.zip",
-  "sha256": "f48c6971b513b0bc51f084f89ed9fc32dfae4866f9ba7ed903ea333cac1cca2c",
-  "size": 100716,
+  "sha256": "027baeb46013165205b0e57a4b4309224bb7eb7ba410bb790d6ebad3a2629296",
+  "size": 101456,
   "files": 21,
-  "published_at": "2026-11-18T21:28:49+08:00",
-  "notes": "update_check 增加安装包可达性探测：清单在但 zip 缺失时提前提示",
+  "published_at": "2026-11-18T21:33:47+08:00",
+  "notes": "update_check/update_apply 优先走 GitHub API 读清单与包，绕过 raw 约5分钟CDN缓存",
   "package_url": "",
   "source": "publish_release.py"
 }
