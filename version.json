@@ -1,12 +1,12 @@
 {
-  "skill_version": "2026.11.18.6",
+  "skill_version": "2026.11.18.7",
   "tables_version": "2026.11.18.1",
   "package": "fenjing-yym.zip",
-  "sha256": "ad1a63a1237cb4dd124f596383ebbe12b3db9acb4e6f4dd1bb770abcd291075d",
-  "size": 99722,
+  "sha256": "07c1fbd5f37bc6135812de39ca4a20ce17160e1428a9526d0d595469fa26e3b7",
+  "size": 100247,
   "files": 21,
-  "published_at": "2026-11-18T19:57:59+08:00",
-  "notes": "内置 GitHub 默认更新源；新增一键 update.py；发布后自校验；网络重试与 404/CDN 提示",
-  "package_url": "https://raw.githubusercontent.com/CHJC1206/fenjing-yym-release/main/fenjing-yym.zip",
+  "published_at": "2026-11-18T21:21:21+08:00",
+  "notes": "doctor 增加更新源格式校验；更新后提示备份份数并支持 --prune-backups 清理",
+  "package_url": "",
   "source": "publish_release.py"
 }
