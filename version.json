@@ -1,12 +1,12 @@
 {
-  "skill_version": "2026.11.18.10",
+  "skill_version": "2026.11.18.11",
   "tables_version": "2026.11.18.1",
   "package": "fenjing-yym.zip",
-  "sha256": "62b0a3d3195ab6e8491dcf54ba395f969c29e8c5de7a8b1c1e8f08efbffae67c",
-  "size": 103207,
+  "sha256": "27bddb5ada5f4caa380d8f5ecf1191115b5771c7e1ab66395dceb5cb0d1ba06c",
+  "size": 104116,
   "files": 22,
-  "published_at": "2026-11-18T21:44:35+08:00",
-  "notes": "修复 update_apply 缺 import os 与 local 源取错参数（无 --source 时崩）；新增 selftest.py 离线自检并接入发布检查；package_url 缺省自动补全",
+  "published_at": "2026-11-18T21:52:57+08:00",
+  "notes": "补回 CDN 绕过（API 优先读清单与包）；selftest 增加 http 分支测试（本地起服务跑 check/dry-run）",
   "package_url": "https://raw.githubusercontent.com/CHJC1206/fenjing-yym-release/main/fenjing-yym.zip",
   "source": "publish_release.py"
 }
