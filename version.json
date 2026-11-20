@@ -1,12 +1,12 @@
 {
-  "skill_version": "2026.11.19.1",
+  "skill_version": "2026.11.20.1",
   "tables_version": "2026.11.18.1",
   "package": "fenjing-yym.zip",
-  "sha256": "1f51fd01228092739a75df758bd7fc1edc8d710c2d6ed2d26467ece0cc8321ae",
-  "size": 115613,
-  "files": 28,
-  "published_at": "2026-11-19T01:20:51+08:00",
-  "notes": "版本号改为 日期.当天次数（如 2026.11.19.1），由脚本自动递增",
+  "sha256": "dfe799112fcfe15be32156ffb21bc9994835ee679c0f7112e06c2f52b7043dd5",
+  "size": 284987,
+  "files": 51,
+  "published_at": "2026-11-20T21:56:55+08:00",
+  "notes": "内置14画风、翻页式画风选择（3画风+下一页）、10项确认点、集数与前段截断（显式启用）、双语法审计、导入修复（requestId/中文路径/文本直送）、纸纹固定关、开始卡三选项（开始/重选/我不做了）、无子技能依赖",
   "package_url": "https://raw.githubusercontent.com/CHJC1206/fenjing-yym-release/main/fenjing-yym.zip",
   "source": "publish_release.py"
 }
