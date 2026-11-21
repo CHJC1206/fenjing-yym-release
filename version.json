@@ -1,12 +1,12 @@
 {
-  "skill_version": "2026.11.21.5",
+  "skill_version": "2026.11.21.6",
   "tables_version": "2026.11.18.1",
   "package": "fenjing-yym.zip",
-  "sha256": "7ebc9cc1bf9820f493470ef6dfe028f4c31d494c45987881790e8fab96036bcf",
-  "size": 288145,
+  "sha256": "077532b38cb0a3db7e43b81cfa30b5b8a588386dca6c64931fd67e797137aa17",
+  "size": 288166,
   "files": 52,
-  "published_at": "2026-11-21T18:21:38+08:00",
-  "notes": "更新备份改存到 .workbuddy/skill-backups/，不再放进 skills/ 目录（此前 _backup 被平台当成重复技能扫描）",
+  "published_at": "2026-11-21T20:35:56+08:00",
+  "notes": "清除残留：10项确认点里仍写着「画风大类 彩铅/火柴」，现改为翻页式选画风 + 单独问画面模式",
   "package_url": "https://raw.githubusercontent.com/CHJC1206/fenjing-yym-release/main/fenjing-yym.zip",
   "source": "publish_release.py"
 }
