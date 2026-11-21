@@ -1,12 +1,12 @@
 {
-  "skill_version": "2026.11.21.3",
+  "skill_version": "2026.11.21.4",
   "tables_version": "2026.11.18.1",
   "package": "fenjing-yym.zip",
-  "sha256": "95d03dc6ae94c99692580a2978e81d15230b244b4bfc06a9ca2af78f15f8d6a9",
-  "size": 287784,
+  "sha256": "4db00fcc251b85aff5a2ae172478f0991847688661ccb47dcaac5d729af44851",
+  "size": 288099,
   "files": 52,
-  "published_at": "2026-11-21T00:11:41+08:00",
-  "notes": "底纸改为固定白色、纸纹固定关闭，两者均不单独询问（用户明确要求才改）",
+  "published_at": "2026-11-21T18:07:03+08:00",
+  "notes": "修复跨版本更新失败：校验改用新包自带 _files.py 清单，不再被本地旧清单误判缺文件（旧版 style-caiqian/style-huochai/guard_subskills 已下线）",
   "package_url": "https://raw.githubusercontent.com/CHJC1206/fenjing-yym-release/main/fenjing-yym.zip",
   "source": "publish_release.py"
 }
