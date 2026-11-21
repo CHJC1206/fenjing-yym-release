@@ -1,12 +1,12 @@
 {
-  "skill_version": "2026.11.21.7",
+  "skill_version": "2026.11.21.8",
   "tables_version": "2026.11.18.1",
   "package": "fenjing-yym.zip",
-  "sha256": "8b6e3afee66458465b18d86915f3075b1dc4e6a4ab50cc40079da1bc4495083d",
-  "size": 288244,
+  "sha256": "0440ef39a288e59384bd0391fd7231e40be6d0c84485d3b86aa2874931088d9f",
+  "size": 288503,
   "files": 52,
-  "published_at": "2026-11-21T20:47:22+08:00",
-  "notes": "全库一致性清理：安装说明去掉子技能与守卫步骤、故障表更新、画风数改为13、映射表显示名对齐",
+  "published_at": "2026-11-21T21:49:13+08:00",
+  "notes": "禁止把稿名前导数字当集数：集数唯一来源是阶段零选项卡；报告新增“稿名原样保留”回显",
   "package_url": "https://raw.githubusercontent.com/CHJC1206/fenjing-yym-release/main/fenjing-yym.zip",
   "source": "publish_release.py"
 }
