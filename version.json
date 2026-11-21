@@ -1,12 +1,12 @@
 {
-  "skill_version": "2026.11.21.6",
+  "skill_version": "2026.11.21.7",
   "tables_version": "2026.11.18.1",
   "package": "fenjing-yym.zip",
-  "sha256": "077532b38cb0a3db7e43b81cfa30b5b8a588386dca6c64931fd67e797137aa17",
-  "size": 288166,
+  "sha256": "8b6e3afee66458465b18d86915f3075b1dc4e6a4ab50cc40079da1bc4495083d",
+  "size": 288244,
   "files": 52,
-  "published_at": "2026-11-21T20:35:56+08:00",
-  "notes": "清除残留：10项确认点里仍写着「画风大类 彩铅/火柴」，现改为翻页式选画风 + 单独问画面模式",
+  "published_at": "2026-11-21T20:47:22+08:00",
+  "notes": "全库一致性清理：安装说明去掉子技能与守卫步骤、故障表更新、画风数改为13、映射表显示名对齐",
   "package_url": "https://raw.githubusercontent.com/CHJC1206/fenjing-yym-release/main/fenjing-yym.zip",
   "source": "publish_release.py"
 }
