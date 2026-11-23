@@ -1,12 +1,12 @@
 {
-  "skill_version": "2026.11.23.3",
+  "skill_version": "2026.11.23.4",
   "tables_version": "2026.11.18.1",
   "package": "fenjing-yym.zip",
-  "sha256": "658ab92d86fb4171e70cee4fa3afc9f26cddb9878d0b3e2c2e0dd040e3877e93",
-  "size": 294907,
+  "sha256": "8ace617ad0667754e62baef0baf591c6d850fc54d8b7bc9d46a3e73949c77882",
+  "size": 297210,
   "files": 52,
-  "published_at": "2026-11-23T19:48:00+08:00",
-  "notes": "场景名只填卡名、出场角色按画面列齐、纸白须2处环境锚（audit 硬检查）；魂体补可画特征（淡蓝白描边/脚不落地）",
+  "published_at": "2026-11-23T20:31:29+08:00",
+  "notes": "三形象体系（默认/魂体/遗体）+ 状态锚写进画面字段；audit 新增形象引用检查（死后仍用默认形象=硬错、魂体/遗体缺特征=硬错）；输出契约瘦身，资产细则移入 assets-cards",
   "package_url": "https://raw.githubusercontent.com/CHJC1206/fenjing-yym-release/main/fenjing-yym.zip",
   "source": "publish_release.py"
 }
