@@ -1,12 +1,12 @@
 {
-  "skill_version": "2026.11.23.2",
+  "skill_version": "2026.11.23.3",
   "tables_version": "2026.11.18.1",
   "package": "fenjing-yym.zip",
-  "sha256": "8bf47b94ef04746631a76e165ed8fc0ec4c64123941023d590e15141007b0f9b",
-  "size": 292582,
+  "sha256": "658ab92d86fb4171e70cee4fa3afc9f26cddb9878d0b3e2c2e0dd040e3877e93",
+  "size": 294907,
   "files": 52,
-  "published_at": "2026-11-23T19:33:24+08:00",
-  "notes": "新增时间线与角色状态页级字段（遗体/魂体/昏迷/重伤）、写稿前状态台账、audit「复活检查」（遗体不得睁眼坐起，回忆页须标时间线）",
+  "published_at": "2026-11-23T19:48:00+08:00",
+  "notes": "场景名只填卡名、出场角色按画面列齐、纸白须2处环境锚（audit 硬检查）；魂体补可画特征（淡蓝白描边/脚不落地）",
   "package_url": "https://raw.githubusercontent.com/CHJC1206/fenjing-yym-release/main/fenjing-yym.zip",
   "source": "publish_release.py"
 }
