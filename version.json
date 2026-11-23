@@ -1,12 +1,12 @@
 {
-  "skill_version": "2026.11.23.1",
+  "skill_version": "2026.11.23.2",
   "tables_version": "2026.11.18.1",
   "package": "fenjing-yym.zip",
-  "sha256": "6b3c77debf64b750a9aeddd79fc069e87247aee292bb1df4a527087786ad1768",
-  "size": 290301,
+  "sha256": "8bf47b94ef04746631a76e165ed8fc0ec4c64123941023d590e15141007b0f9b",
+  "size": 292582,
   "files": 52,
-  "published_at": "2026-11-23T19:12:12+08:00",
-  "notes": "彩铅/绘本角色卡眼睛改为日系插画六要素（眼型/虹膜/瞳孔/高光/睫毛/双眼皮）+6套模板句；audit 增加眼睛要素告警（火柴系不检查）；删除旧“实心黑椭圆”写法",
+  "published_at": "2026-11-23T19:33:24+08:00",
+  "notes": "新增时间线与角色状态页级字段（遗体/魂体/昏迷/重伤）、写稿前状态台账、audit「复活检查」（遗体不得睁眼坐起，回忆页须标时间线）",
   "package_url": "https://raw.githubusercontent.com/CHJC1206/fenjing-yym-release/main/fenjing-yym.zip",
   "source": "publish_release.py"
 }
