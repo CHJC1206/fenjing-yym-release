@@ -1,12 +1,12 @@
 {
-  "skill_version": "2026.11.23.4",
+  "skill_version": "2026.11.23.6",
   "tables_version": "2026.11.18.1",
   "package": "fenjing-yym.zip",
-  "sha256": "8ace617ad0667754e62baef0baf591c6d850fc54d8b7bc9d46a3e73949c77882",
-  "size": 297210,
-  "files": 52,
-  "published_at": "2026-11-23T20:31:29+08:00",
-  "notes": "三形象体系（默认/魂体/遗体）+ 状态锚写进画面字段；audit 新增形象引用检查（死后仍用默认形象=硬错、魂体/遗体缺特征=硬错）；输出契约瘦身，资产细则移入 assets-cards",
+  "sha256": "c5c5e28280ae78971461c17149ad13c833198588728c00eea014a87f531bcfa6",
+  "size": 299744,
+  "files": 53,
+  "published_at": "2026-11-23T22:58:16+08:00",
+  "notes": "暴力改写改为强制隐晦：写稿即用隐晦句库（10条可直接抄），画面不留耳光/巴掌/掐/血等原词；audit 原词一律硬错，不再给建议档",
   "package_url": "https://raw.githubusercontent.com/CHJC1206/fenjing-yym-release/main/fenjing-yym.zip",
   "source": "publish_release.py"
 }
